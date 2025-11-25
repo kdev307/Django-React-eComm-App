@@ -105,46 +105,149 @@ Django-React-eComm-App/
 
 ---
 
-<!-- ## Screenshots
+## Screenshots
 
 ### Home Page
 
-![Home Page](frontend/public/images/screenshots/homepage.png)
+#### Hero Section
 
-### Product Page
+![Hero Section](screenshots/hero.png)
 
-![Product Page](frontend/public/images/screenshots/productpage.png)
+#### Categories
 
-### Admin Dashboard
+![Category](screenshots/category.png)
 
-![Admin Dashboard](frontend/public/images/screenshots/admindashboard.png)
+#### Popular Products
 
-### Additional Screenshots
+![Popular Products](screenshots/popular-products.png)
 
-![Screenshot 1](frontend/public/images/screenshots/screenshot1.png)
-![Screenshot 2](frontend/public/images/screenshots/screenshot2.png)
-![Screenshot 3](frontend/public/images/screenshots/screenshot3.png)
-![Screenshot 4](frontend/public/images/screenshots/screenshot4.png)
-![Screenshot 5](frontend/public/images/screenshots/screenshot5.png)
-![Screenshot 6](frontend/public/images/screenshots/screenshot6.png)
-![Screenshot 7](frontend/public/images/screenshots/screenshot7.png)
-![Screenshot 8](frontend/public/images/screenshots/screenshot8.png)
-![Screenshot 9](frontend/public/images/screenshots/screenshot9.png)
-![Screenshot 10](frontend/public/images/screenshots/screenshot10.png)
-![Screenshot 11](frontend/public/images/screenshots/screenshot11.png)
-![Screenshot 12](frontend/public/images/screenshots/screenshot12.png)
-![Screenshot 13](frontend/public/images/screenshots/screenshot13.png)
-![Screenshot 14](frontend/public/images/screenshots/screenshot14.png)
-![Screenshot 15](frontend/public/images/screenshots/screenshot15.png)
-![Screenshot 16](frontend/public/images/screenshots/screenshot16.png)
-![Screenshot 17](frontend/public/images/screenshots/screenshot17.png)
-![Screenshot 18](frontend/public/images/screenshots/screenshot18.png)
-![Screenshot 19](frontend/public/images/screenshots/screenshot19.png)
-![Screenshot 20](frontend/public/images/screenshots/screenshot20.png)
-![Screenshot 21](frontend/public/images/screenshots/screenshot21.png)
-![Screenshot 22](frontend/public/images/screenshots/screenshot22.png)
-![Screenshot 23](frontend/public/images/screenshots/screenshot23.png)
-![Screenshot 24](frontend/public/images/screenshots/screenshot24.png)
-![Screenshot 25](frontend/public/images/screenshots/screenshot25.png)
+#### Benefits
 
---- -->
+![Benefits](screenshots/benefits.png)
+
+#### Testimonials
+
+![Testimonials](screenshots/testimonial.png)
+
+### Store Page
+
+#### Store Overview
+
+![Store](screenshots/store.png)
+
+#### Cart
+
+![Cart](screenshots/cart.png)
+
+### Account Management
+
+#### Login
+
+![Login](screenshots/login.png)
+
+#### Sign Up
+
+![Sign Up](screenshots/sign-up.png)
+
+#### Profile
+
+![Profile](screenshots/profile.png)
+
+#### Update Profile
+
+![Update Profile](screenshots/update-profile.png)
+
+#### View Address
+
+![View Address](screenshots/view-address.png)
+
+#### Add Address
+
+![Add Address](screenshots/add-address.png)
+
+### Review Page
+
+#### Product Reviews
+
+![Product Review](screenshots/product-review.png)
+
+#### Add Review
+
+![Product Add Review](screenshots/product-add-review.png)
+
+#### User Reviews
+
+![User Reviews](screenshots/user-reviews.png)
+
+### Order History Page
+
+#### Order History
+
+![Order History](screenshots/order-history.png)
+
+#### Order History Details
+
+![Order History Detail](screenshots/order-history-detail.png)
+
+#### Order Checkout
+
+![Order Checkout](screenshots/order-checkout.png)
+
+### Emails
+
+#### Activate Account
+
+![Activate Account](screenshots/email-activate-account.png)
+
+#### New Product Notification
+
+![New Product](screenshots/email-new-product.png)
+
+#### Order Dispatched
+
+![Order Dispatched](screenshots/email-order-dispatched.png)
+
+#### Order Placed
+
+![Order Placed](screenshots/email-order-placed.png)
+
+#### Updates
+
+![Updates](screenshots/email-updates.png)
+
+### Account Activation Message
+
+#### Activation Failed
+
+![Activation Failed](screenshots/account-activate-fail.png)
+
+#### Activation Success
+
+![Activation Success](screenshots/account-activate-success.png)
+
+### Admin Page
+
+#### Add Product
+
+![Admin Add Product 1](screenshots/admin-add-product-1.png)
+![Admin Add Product 2](screenshots/admin-add-product-2.png)
+![Admin Add Product 3](screenshots/admin-add-product-3.png)
+![Admin Add Product 4](screenshots/admin-add-product-4.png)
+
+#### Dispatch Orders
+
+![Admin Dispatch](screenshots/admin-dispatch.png)
+
+#### Admin Profile
+
+![Admin Profile](screenshots/admin-profile.png)
+
+#### Admin Store
+
+![Admin Store](screenshots/admin-store.png)
+
+#### View Order History
+
+![Admin View Order History](screenshots/admin-view-order-history.png)
+
+---
