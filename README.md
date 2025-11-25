@@ -105,7 +105,7 @@ Django-React-eComm-App/
 
 ---
 
-## Screenshots
+<!-- ## Screenshots
 
 ### Home Page
 
@@ -147,4 +147,4 @@ Django-React-eComm-App/
 ![Screenshot 24](frontend/public/images/screenshots/screenshot24.png)
 ![Screenshot 25](frontend/public/images/screenshots/screenshot25.png)
 
----
+--- -->
