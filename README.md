@@ -12,8 +12,6 @@ Welcome to the Django-React eCommerce Application! This project is a full-stack 
 4. [Setup Instructions](#setup-instructions)
 5. [Folder Structure](#folder-structure)
 6. [Screenshots](#screenshots)
-7. [Contributing](#contributing)
-8. [License](#license)
 
 ---
 
